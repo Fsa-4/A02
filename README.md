@@ -1,14 +1,15 @@
-PART 1: Directions on Using Webstorm
-    1. Download and Install Webstorm from their official website.  
-        1B. Fill out the application for the free student license and redeem the code via your university email
-    2. After installing web storm via the setup wizard, open the Webstorm application
-    3. Log into your JetBrains account via Webstorm and activate your license key
-    4. To integrate Git with Webstorm go to File then Settings then Version Control then Git.
-        4B. Here we can ensure the correct path to the Git executable
-    5. Once git has been integrated, you can now clone the repository by going to File then New then Project from Version Control then Git
-    6. You can now commit and push changes immediately from Webstorm directly to GitHub.
+### PART 1: Directions on Using Webstorm 
 
-PART 2: Glossary
+1. Download and Install Webstorm from their official website.
+2. Fill out the application for the free student license and redeem the code via your university email
+3. After installing web storm via the setup wizard, open the Webstorm application
+4. Log into your JetBrains account via Webstorm and activate your license key
+5. To integrate Git with Webstorm go to File then Settings then Version Control then Git.
+6. Here we can ensure the correct path to the Git executable
+7. Once git has been integrated, you can now clone the repository by going to File then New then Project from Version Control then Git
+8. You can now commit and push changes immediately from Webstorm directly to GitHub.
+
+### PART 2: Glossary
    - **Branch:** A path of progress in development. Branches provide a conceptual framework for the edit/stage/commit process.
    - **Clone:** A duplicated version of a repository that lives on your computer rather than on a server or the internet.
    - **Commit:** A change made to a file or a set of files. In Git, each save generates a unique code, with saving a file.
